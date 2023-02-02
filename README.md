@@ -11,7 +11,6 @@ This file contains the directory listing of the trimmed short reads.
 The sample number is the first part of the file name.
 Files ending on `_R1_001_val_1.fq.gz` are read 1, files ending on `_R2_001_val_2.fq.gz` are read 2.
 
-
 ### [nanopore_data.tree](nanopore_data.tree)
 
 This file contains the nanopore runs (or rather the directory structure of these data).
