@@ -5,14 +5,6 @@ These were sequenced using Illumina technology at the USB and using long-read na
 In addition, resistance data are available for these strains.
 The raw data have been deposited in public archives at [NCBI under BioProject PRJEB28660](https://www.ncbi.nlm.nih.gov/bioproject/PRJEB28660).
 
-We need a data organization that links
-
-  * the resistance information
-  * the Illumina data
-  * the nanopore data
-  * the assemblies
-  * the records on SRA and genbank
-
 ### [illumina_data.tree](illumina_data.tree)
 
 This file contains the directory listing of the trimmed short reads.
