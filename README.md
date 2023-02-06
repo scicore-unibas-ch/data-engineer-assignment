@@ -14,7 +14,7 @@ Files ending on `_R1_001_val_1.fq.gz` are read 1, files ending on `_R2_001_val_2
 ### [nanopore_data.tree](nanopore_data.tree)
 
 This file contains the nanopore runs (or rather the directory structure of these data).
-Each run is labeled by the date with the format `%Y%m%s`.
+Each run is labeled by the date with the format `%Y%m%d`.
 Each folder contains the processed reads by barcode as `BC{%02d}.fasta.gz` where the placeholder is the barcode number.
 
 ### [sample_table.csv](sample_table.csv)
